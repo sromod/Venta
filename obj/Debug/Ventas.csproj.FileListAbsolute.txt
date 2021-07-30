@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\LENOVO\source\repos\Ventas\bin\Debug\Ventas.exe
+C:\Users\LENOVO\source\repos\Ventas\bin\Debug\Ventas.pdb
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.Views.Inicio.resources
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.Views.VentaView.resources
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.exe
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.pdb
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Ventas\obj\Debug\Ventas.Views.ComisionView.resources
